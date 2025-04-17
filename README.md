@@ -54,3 +54,11 @@ The script offers the following Nmap options through a numbered menu:
 5.  **View the results:** The output of the Nmap command will be displayed in your terminal.
 
 6.  **Return to the menu:** After the scan is complete, you will be presented with the main menu again to perform another scan or exit.
+
+## Disclaimer
+
+This script is intended for educational and ethical network security testing purposes only. Using Nmap to scan networks or hosts without proper authorization is illegal and unethical. The author is not responsible for any misuse of this script. Always ensure you have explicit permission before scanning any network or system.
+
+## Contributing
+
+Contributions to this project are welcome. If you have suggestions for improvements, bug fixes, or new features, please feel free to submit a pull request.
