@@ -1,4 +1,4 @@
-# nmap-menu.py
+# Nmap.py
 
 This Python script provides a simple menu-driven interface for common Nmap (Network Mapper) functionalities on Linux. It allows users to easily execute various network scanning tasks without needing to remember specific Nmap command-line options.
 
